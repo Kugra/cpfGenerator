@@ -9,7 +9,6 @@ gerados = []
 somaD1 = 0
 somaD2 = 0
 
-
 for fCtrl in range(9):
     randomizado = random.randint(0, 9)
     gerados.append(randomizado)
